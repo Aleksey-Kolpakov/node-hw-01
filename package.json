@@ -1,0 +1,27 @@
+{
+  "name": "hw-01",
+  "version": "1.0.0",
+  "description": "hw-1-nodeJs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Aleksey-Kolpakov/node-hw-01.git"
+  },
+  "author": "Aleksey Kolpakov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Aleksey-Kolpakov/node-hw-01/issues"
+  },
+  "homepage": "https://github.com/Aleksey-Kolpakov/node-hw-01#readme",
+  "devDependencies": {
+    "nodemon": "^2.0.20"
+  },
+  "dependencies": {
+    "yargs": "^17.7.1"
+  }
+}
